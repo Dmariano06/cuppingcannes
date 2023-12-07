@@ -1,0 +1,22 @@
+
+#contact{
+  background-color: #212529 !important;
+}
+@media (min-width: 1000px) {
+  .navbar {
+    transition: all 0.2s ease;
+    height:8%;
+  }
+.navbar-transparent {
+  background-color: transparent !important;
+  transition: all 0.2s ease !important;
+   height:8%;
+}
+
+.navbar-colored {
+  background-color: #212529 !important;
+  transition: all 0.4s !important; 
+}
+}
+
+

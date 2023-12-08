@@ -50,3 +50,8 @@
 .end{
   font-size: 18px;
 }
+@media (min-width:650px) {
+  #signature{
+    display: none;
+  }
+}
